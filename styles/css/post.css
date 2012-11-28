@@ -1,0 +1,141 @@
+#content p {
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#content p.line {
+	padding-top:10px;
+	padding-bottom:10px;
+   border-top: 4px double lightGrey;
+   border-top-width: 4px;
+   border-top-style: double;
+   border-top-color: lightGrey;	
+}
+
+#post-title
+{
+	padding-left:10px;
+	text-align:left;
+	font-family:Helvetica;
+	font-size:120%;
+	font-weight:bold;
+}
+
+#post-date
+{
+	padding-right:10px;
+	text-align:right;
+	font-family:Georgia;
+	font-size:90%;
+	font-style:italic;
+}
+
+#post
+{
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	font-family:Helvetica;
+	font-size:105%;
+	text-align:justify;
+	hyphens:auto;
+	-webkit-hyphens:auto;
+	-moz-hyphens:auto;
+}
+
+#post h2
+{
+	font-family:Helvetica;
+	font-size:120%;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#post h3
+{
+	font-family:Helvetica;
+	font-weight:bold;
+	font-style:italic;
+}
+
+#post .path
+{
+	font-family:Courier;
+	font-style:italic;
+}
+
+#post .attr
+{
+	font-family:Courier;
+}
+
+#back
+{
+	padding-top:30px;
+	text-align:center;
+	font-size:80%;
+}
+
+blockquote
+{
+	text-align:center;
+	font-style:italic;
+}
+
+#old-comments
+{
+	font-family:Arial;
+	font-size:90%;
+	text-align:left;
+}
+
+#old-comments .cite
+{
+	text-style:italic;
+}
+
+#sensors
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+border-collapse:collapse;
+}
+#sensors td
+{
+text-align:right;
+font-size:0.9em;
+/*font-style:italic;*/
+border:1px solid #98bf21;
+padding:3px 7px 2px 7px;
+}
+#sensors th, #sensors td.label
+{
+font-size:0.9em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#A7C942;
+border:1px solid #98bf21;
+color:#fff;
+padding:5px 10px 3px 10px;
+}
+#sensors td.empty
+{
+background-color:#fff;
+border:none;
+color:#fff;
+padding:5px 10px 3px 10px;
+}
+#sensors tr.alt td.data 
+{
+color:#000;
+background-color:#EAF2D3;
+text-align:right;
+}
+#sensors tr.sum td.data 
+{
+color:#000;
+background-color:yellow;
+text-align:right;
+font-style: italic;
+font-weight: bold;
+}

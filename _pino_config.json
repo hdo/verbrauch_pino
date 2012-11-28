@@ -1,0 +1,11 @@
+{
+	"site_title":"Verbrauch",
+	"site_tagline":"verbrauch, strom, gas",
+	"site_author":"selma@do-digital.de",
+	"site_copyright":"Copyright 2012, do-digital.de",
+	"site_url":"http://verbrauch.do-digital.de",
+	"author_twitter_name":"",
+	"author_twitter_url":"http://twitter.com/YOUR_TWITTER",
+	"pino_build_path":"/var/www/pino/",
+	"pino_max_rss_items":7
+}

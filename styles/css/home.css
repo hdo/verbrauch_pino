@@ -1,0 +1,104 @@
+#posts-archives
+{
+}
+
+.posts-year
+{
+	padding-top:3%;
+	padding-bottom:10px;
+	text-align:center;
+	font-weight:bold;
+	font-size:120%;
+	color:#CC5C94;
+	border-bottom:3px outset #CC5C94;
+}
+
+.posts-month
+{
+	padding-left:10px;
+	padding-top:20px;
+	text-align:left;
+	font-weight:bold;
+}
+
+.posts-list
+{
+	padding-left:15px;
+	text-align:left;
+}
+
+.posts-list-title, p
+{
+	padding-top:10px;
+	font-size:100%;
+}
+
+.posts-list-day
+{
+	font-family:Georgia;
+	font-size:80%;
+}
+
+#post-spaceheader
+{
+	padding-top:2%;
+}
+
+#post-title
+{
+	text-align:left;
+	font-size:120%;
+}
+
+#post-date
+{
+	text-align:right;
+	font-size:80%;
+	font-style:italic;
+}
+
+#sensors
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+border-collapse:collapse;
+}
+#sensors td
+{
+text-align:right;
+font-size:0.9em;
+/*font-style:italic;*/
+border:1px solid #98bf21;
+padding:3px 7px 2px 7px;
+}
+#sensors th, #sensors td.label
+{
+font-size:0.9em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#A7C942;
+border:1px solid #98bf21;
+color:#fff;
+padding:5px 10px 3px 10px;
+}
+#sensors td.empty
+{
+background-color:#fff;
+border:none;
+color:#fff;
+padding:5px 10px 3px 10px;
+}
+#sensors tr.alt td.data 
+{
+color:#000;
+background-color:#EAF2D3;
+text-align:right;
+}
+#sensors tr.sum td.data 
+{
+color:#000;
+background-color:yellow;
+text-align:right;
+font-style: italic;
+font-weight: bold;
+}

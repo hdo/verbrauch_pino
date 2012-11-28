@@ -1,0 +1,14 @@
+#page-content
+{
+	font-family:Helvetica;
+	font-size:105%;
+	line-height:1.6em;
+}
+
+#page-content h2
+{
+	font-family:Helvetica;
+	font-size:120%;
+	font-weight:bold;
+	font-style:italic;
+}
